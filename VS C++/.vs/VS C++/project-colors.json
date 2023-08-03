@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f2b12cf-5e66-4b07-8176-e9ad25a551e2": {
+      "ProjectGuid": "0f2b12cf-5e66-4b07-8176-e9ad25a551e2",
+      "DisplayName": "FileSearchLib",
+      "ColorIndex": 0
+    },
+    "8f94ab2d-7d02-4fa4-a90d-954a92061f14": {
+      "ProjectGuid": "8f94ab2d-7d02-4fa4-a90d-954a92061f14",
+      "DisplayName": "FileSearchApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

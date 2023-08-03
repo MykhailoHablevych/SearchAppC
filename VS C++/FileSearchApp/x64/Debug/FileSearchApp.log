@@ -1,0 +1,2 @@
+﻿  FileSearchApp.cpp
+G:\VS C++\VS C++\FileSearchApp\FileSearchApp.cpp(4,10): fatal error C1083: Cannot open include file: 'FileSearchLib.h': No such file or directory
